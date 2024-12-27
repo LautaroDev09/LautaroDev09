@@ -10,7 +10,7 @@ Hi, I'm Lautaro Rodriguez!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Support+Analyst;Scripting%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/LautaroDev09/LautaroDev09/blob/main/_c5fa8f5e-cfc7-47c7-97ee-51c67ad7504f.jpeg" width="320" />
 <hr>
 
 ```
