@@ -35,7 +35,7 @@ lautarorod10@gmail.com
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <img alt="Static Badge" src="https://img.shields.io/badge/Powershell-483D8B">
-
+    <img alt="Static Badge" src="https://img.shields.io/badge/Shell%20Script-228B22">
 
 
 ### 🧰 Frameworks and Libraries
@@ -54,6 +54,9 @@ lautarorod10@gmail.com
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Jira-80DAEB">
+    <img alt="Static Badge" src="https://img.shields.io/badge/n8n-FFA07A">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Ansible-FF4000">
 </p>
 
 <table style="border: none">
